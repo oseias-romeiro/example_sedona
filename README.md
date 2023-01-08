@@ -18,4 +18,4 @@ This project analyze the 50 most visited tourist attractions in the world by coo
 
 ## 50 most famous attractions
 
-![](./presentation/media/plot.png)
+![](./docs/media/plot.png)
